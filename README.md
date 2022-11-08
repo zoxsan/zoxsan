@@ -1,16 +1,12 @@
-### Hi there 👋
+<div align="center">
+<p>Hello on my GitHub!</p>
+    <img src="https://cdn.discordapp.com/avatars/899402485645606933/981afb7f2018656e617f6e7024596f98.webp?size=2048" alt="zoxsan Avatar" width="80" height="80">
+  </a>
+  <h1 align="center">zoxsan</h1>
+<h4>Python, C, C++, Html/Css Programmer. </h4>
+<h4>🔗Links</h4>
+<a href="http://zoxsan.cf/">My Website</a><br>
 
-<!--
-**zoxsan/zoxsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uebh6n6jfknp4pnuedcmnuygqu&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31uebh6n6jfknp4pnuedcmnuygqu&redirect=true)
