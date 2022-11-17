@@ -5,7 +5,7 @@
   <h1 align="center">zoxsan</h1>
 <h4>Python, C, C++, Html/Css Programmer. </h4>
 <h4>🔗Links</h4>
-<a href="http://zoxsan.cf/">My Website</a><br>
+<a href="https://zoxsan.ml">My Website</a><br>
 
 
 #
