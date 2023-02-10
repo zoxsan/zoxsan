@@ -1,6 +1,6 @@
 <div align="center">
 <p>Hello on my GitHub!</p>
-    <img src="https://cdn.discordapp.com/avatars/1023693765908639794/3e9a4ae5bfeb5d245f0493d02c788ae4.webp?size=2048" alt="zoxsan Avatar" width="80" height="80">
+    <img src="https://media.discordapp.net/attachments/914618962334076938/1067881514244788275/Screenshot_121.png" alt="zoxsan Avatar" width="80" height="80">
   </a>
   <h1 align="center">zoxsan</h1>
 <h4>Python, C, C++, Html/Css Programmer. </h4>
